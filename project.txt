@@ -2,4 +2,5 @@ GitHub Pull Request Demo
 Version 1.0
 This change was added via a Pull Request.
 Second update for pull request.
-
+This project demonstrates the GitHub code review workflow.
+Review status: ready for approval.
